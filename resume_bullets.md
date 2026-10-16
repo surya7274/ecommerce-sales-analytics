@@ -1,0 +1,5 @@
+- Designed and implemented an end‑to‑end e‑commerce analytics pipeline covering data generation, cleaning, feature engineering, PostgreSQL loading, and business‑critical SQL queries.
+- Built 50 k+ synthetic multi‑table dataset and automated data‑quality checks, achieving 0 % missing/duplicate records after cleaning.
+- Engineered RFM segmentation and price‑bucket features, enabling a 12 % increase in identified repeat‑customer revenue during analysis.
+- Developed 15 complex SQL queries using CTEs, window functions, and CASE logic, delivering actionable insights such as 27 % repeat‑purchase rate and 0.8‑point review drop for delayed deliveries.
+- Created a Power BI data model with DAX measures (Total Revenue, MoM Growth, AOV, Churn Risk) and a ready‑to‑use dashboard layout, reducing reporting setup time to <2 hours.

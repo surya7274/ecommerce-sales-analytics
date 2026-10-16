@@ -1,0 +1,36 @@
+# .gitignore for ecommerce-sales-analytics
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (keep raw data small or use download instructions)
+/data/raw/*
+
+# Large files
+*.zip
+*.tar.gz
+*.7z
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# PowerBI files (binary)
+*.pbix
+
+# Generated notebooks
+*.ipynb
+
+# Log files
+*.log
+
+# Resume and interview notes (keep private)
+RESUME_AND_INTERVIEW.md
